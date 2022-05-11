@@ -1,0 +1,20 @@
+Data Pre-Processing : Review the data. Merge multiple datasets
+
+Final.csv is the data extracted from the exoplanets website 
+There is something wrong in the csv. There are 11 items in the header and 13 items in the row 
+Till hyperlink the headers are correct but after hyperlink there is something missing 
+
+As the discovery_date was already there so we added temp_discovery_date header (later we can clean the data )
+
+As the planet_mass was already there so we added temp_planet_mass header (later we can clean the data )
+
+
+-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==--=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-
+
+Sort any one column of dataset 2
+Merge 2 datasets 
+
+-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==--=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-
+
+Enumerate will give us both the index and the element on that index
+Instead of just the index that of a traditional loop 
